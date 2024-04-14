@@ -1,1 +1,2 @@
 # AI-Project-Methodology
+The AI project at RetailGenius, focused on predicting customer churn, aims to enhance customer retention and optimize user experiences by identifying customers at risk of leaving the platform. This project stands as a crucial component of RetailGenius's broader strategy to leverage data and AI technologies to maintain a competitive edge in the e-commerce and online marketplace sector.
